@@ -27,7 +27,7 @@
         <repository>
           <id>local.m2</id>
           <name>Local Repository</name>
-          <url>http://nexus.apps.demo.mx.redhat.com/content/groups/main</url>
+          <url>http://nexus.continuous-integration.svc.cluster.local/content/groups/main</url>
           <snapshots>
             <enabled>false</enabled>
           </snapshots>
@@ -41,7 +41,7 @@
         <pluginRepository>
           <id>local.m2</id>
           <name>Local Repository</name>
-          <url>http://nexus.apps.demo.mx.redhat.com/content/groups/main</url>
+          <url>http://nexus.continuous-integration.svc.cluster.local/content/groups/main</url>
           <snapshots>
             <enabled>false</enabled>
           </snapshots>
